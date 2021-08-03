@@ -1,0 +1,15 @@
+# Intellij
+.idea
+.idea/workspace.xml
+
+
+# config files
+*.iml
+*.log
+
+# compiled classes
+*.class
+
+# out of source build
+
+out/
